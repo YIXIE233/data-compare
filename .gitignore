@@ -1,4 +1,6 @@
-data/*.db
+data/*
+!data/samples/
+!data/samples/**
 .venv/
 web/node_modules/
 __pycache__/
