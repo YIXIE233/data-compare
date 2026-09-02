@@ -1,7 +1,7 @@
 <template>
   <div class="shell">
     <header class="sbar">
-      <div class="brand"><span class="logo">C</span>比对演示</div>
+      <div class="brand"><span class="logo">D</span>数据比对</div>
       <nav>
         <router-link to="/demands" class="nav-item" aria-label="任务" :class="{ on: navOn('demands') }">
           <el-icon><List /></el-icon>任务

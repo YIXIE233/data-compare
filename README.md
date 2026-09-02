@@ -1,6 +1,6 @@
-# compare-lab
+# data compare
 
-本地比对实验：CSV 来源 vs 内存参考目录。映射活在 sqlite，差异写到 `data/<模块>/<需求>/diff.xlsx`。
+CSV 来源对参考目录。映射在 sqlite，差异写到 `data/<模块>/<分类>/<需求>/diff.xlsx`。
 
 ```
 python -m venv .venv

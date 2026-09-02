@@ -1,4 +1,4 @@
-"""SQLite WAL. Schema v3: personal compare-lab."""
+"""SQLite WAL. Schema v3."""
 from __future__ import annotations
 
 import os
